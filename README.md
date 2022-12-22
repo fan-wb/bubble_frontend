@@ -1,6 +1,6 @@
 # bubble-frontend
 
-This project is the frontend code base vue2.0 for [bubble].
+This project is the frontend code base vue2.0 for [bubble](https://github.com/fan-wb/bubble.git).
 
 ## Project setup
 ```
